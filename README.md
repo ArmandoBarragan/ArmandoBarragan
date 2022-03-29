@@ -1,9 +1,9 @@
 ### Ok so I do the best I can :)
 <h1>What I like doing and learning</h1>
 <ul>
-  <li>Backend</li>
-  <li>Software architecture</li>
-  <li>Project management</li>
+  <li>💻 Backend</li>
+  <li>🏛 Software architecture</li>
+  <li>✍🏼 Project management</li>
 </ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoBarragan)](https://github.com/anuraghazra/github-readme-stats)
