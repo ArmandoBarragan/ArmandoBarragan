@@ -13,11 +13,11 @@
   <div>
     <h1>Tools I can use</h1>
     <div style="display: flex; justify-content: space-around">
-      <div sytle="display: flex; flex-direction: column;"><img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png"/> Django</div>
-      <div sytle="display: flex; flex-direction: column;"><img src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png"/> Docker</div>
-      <div sytle="display: flex; flex-direction: column;"><img src="https://w1.pngwing.com/pngs/570/557/png-transparent-react-logo-redux-javascript-vuejs-babel-nodejs-npm-web-application-thumbnail.png"/> React</div>
-      <div sytle="display: flex; flex-direction: column;"><img src="https://w7.pngwing.com/pngs/854/555/png-transparent-vue-js-hd-logo-thumbnail.png"/> Vue</div>
-      <div sytle="display: flex; flex-direction: column;"><img src="https://w7.pngwing.com/pngs/743/345/png-transparent-bash-git-computer-icons-installation-command-line-interface-github-text-logo-windows-thumbnail.png"/> Git</div>
+      <div sytle="display: flex; flex-direction: column;"><img src=""/> Django</div>
+      <div sytle="display: flex; flex-direction: column;"><img src=""/> Docker</div>
+      <div sytle="display: flex; flex-direction: column;"><img src=""/> React</div>
+      <div sytle="display: flex; flex-direction: column;"><img src=""/> Vue</div>
+      <div sytle="display: flex; flex-direction: column;"><img src=""/> Git</div>
       
     </div>
   </div>
