@@ -1,7 +1,7 @@
 
 <h1 align="center">This is me 🕷️</h1>
 <img src="https://user-images.githubusercontent.com/42745515/160675033-4ce4d526-6898-454c-ad01-9de264bb9929.gif" alt="" width="100%">
-<div align="left">
+<div align="left" width="50%">
   <h1>What I like doing and learning</h1>
   <ul>
     <li>💻 Backend</li>
@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-<div align="right">
+<div align="right" width="50%">
   <h1>Tools I can use</h1>
   <code>Django <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669300-adf684fe-7759-4027-a4d4-eb05d93ab1e0.png" alt=""></code>
   <code>Docker <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669298-906105e7-2626-486b-be7b-9a1e04c629d4.png" alt=""></code>
