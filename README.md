@@ -14,5 +14,5 @@
 <code>React <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669305-901c2018-1ecb-4792-b11c-f0296395bcb6.png" alt=""></code>
 <code>Vue <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669306-d5e78a8f-f824-4405-80fd-b05ead5437ac.png" alt=""></code>
 <code>Git <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669301-2d131da4-181b-45cb-96bf-e80787f25e09.png" alt=""></code>
-
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoBarragan)](https://github.com/anuraghazra/github-readme-stats)
