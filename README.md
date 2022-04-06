@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-<div align="center" width="50%">
+<div align="" width="50%">
   <h1>Tools I can use</h1>
   <code>Django <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669300-adf684fe-7759-4027-a4d4-eb05d93ab1e0.png" alt=""></code>
   <code>Docker <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669298-906105e7-2626-486b-be7b-9a1e04c629d4.png" alt=""></code>
@@ -20,9 +20,7 @@
 </div>
 
 
-<div align="center">
   <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoBarragan&theme=buefy&layout=compact" />
 </a>
 
-</div>
