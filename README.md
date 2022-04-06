@@ -19,4 +19,8 @@
   <code>Git <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669301-2d131da4-181b-45cb-96bf-e80787f25e09.png" alt=""></code>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoBarragan)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmandoBarragan&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoBarragan&theme=buefy&layout=compact" />
+</a>
