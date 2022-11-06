@@ -13,6 +13,8 @@
 <div align="" width="50%">
   <h1>Tools I can use</h1>
   <code>Django <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669300-adf684fe-7759-4027-a4d4-eb05d93ab1e0.png" alt=""></code>
+  <code>FastAPI <img height="50px" src="https://user-images.githubusercontent.com/42745515/200189430-35657837-f7e3-454a-ac4c-eabf7fb48c65.png" alt="">
+  </code>
   <code>Docker <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669298-906105e7-2626-486b-be7b-9a1e04c629d4.png" alt=""></code>
   <code>React <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669305-901c2018-1ecb-4792-b11c-f0296395bcb6.png" alt=""></code>
   <code>Vue <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669306-d5e78a8f-f824-4405-80fd-b05ead5437ac.png" alt=""></code>
