@@ -5,8 +5,8 @@
   <h1>What I like doing and learning</h1>
   <ul>
     <li>💻 Backend</li>
+    <li>💾 Queries </li>
     <li>🏛 Software architecture</li>
-    <li>✍🏼 Project management</li>
   </ul>
 </div>
 
