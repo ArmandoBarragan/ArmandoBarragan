@@ -7,8 +7,6 @@
     <li>💻 Backend</li>
     <li>💾 Queries </li>
     <li>🏛 Software architecture</li>
-    <li>🗾 Japanese </li>
-    <li>♟️ Chess</li>
   </ul>
 </div>
 
