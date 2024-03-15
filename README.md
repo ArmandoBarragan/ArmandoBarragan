@@ -2,14 +2,28 @@
 <h1 align="center">This is me 🕷️</h1>
 <img src="https://user-images.githubusercontent.com/42745515/160675033-4ce4d526-6898-454c-ad01-9de264bb9929.gif" alt="" width="100%">
 <div align="left" width="50%">
-  <h1>What I like doing and learning</h1>
+  <h1>What I like doing</h1>
   <ul>
     <li>💻 Backend</li>
     <li>💾 Queries </li>
     <li>🏛 Software architecture</li>
   </ul>
 </div>
-
+<div>
+  <h1>What I'm working on</h1>
+  <h2>Lawyers (MVP)</h2>
+  <p>I am currently working on partnership with several developers to build an MVP for users to easily find a lawyer, in the attempt of making this a startup</p>
+  <h2>Kimmi (MVP)</h2>
+  <p>I formed a team with a couple of ex-classmates from college to make an application that gives anime recommendations and allows users to follow other people's activity reguarding the anime they are consuming.</p>
+</div>
+<div>
+  <h1>What I have worked on</h1>
+  <h2>Stay Fit</h2>
+  <p>I built a tax-reporting module for a large gym, allowing them to create bills for their customers</p>
+  <h2>PCA</h2>
+  <p>I participated in the making of several modules for an industrial real estate company, including a dashboard that gives them insights about their assets and a custom calendar so that they can manage their time and resources better.</p>
+</div>
+</div>
 <div align="" width="50%">
   <h1>Tools I can use</h1>
   <code>Django <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669300-adf684fe-7759-4027-a4d4-eb05d93ab1e0.png" alt=""></code>
