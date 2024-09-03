@@ -11,10 +11,8 @@
 </div>
 <div>
   <h1>What I'm working on</h1>
-  <h2>Lawyers (MVP)</h2>
-  <p>I am currently working on partnership with several developers to build an MVP for users to easily find a lawyer, in the attempt of making this a startup</p>
-  <h2>Kimmi (MVP)</h2>
-  <p>I formed a team with a couple of ex-classmates from college to make an application that gives anime recommendations and allows users to follow other people's activity reguarding the anime they are consuming.</p>
+  <h2>Ben & Frank</h2>
+  <p>I work on Ben and Frank's Internal Services team, where I build solutions for their operations and financial teams.</p>
 </div>
 <div>
   <h1>What I have worked on</h1>
@@ -33,6 +31,7 @@
   <code>React <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669305-901c2018-1ecb-4792-b11c-f0296395bcb6.png" alt=""></code>
   <code>Vue <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669306-d5e78a8f-f824-4405-80fd-b05ead5437ac.png" alt=""></code>
   <code>Git <img height="50px" src="https://user-images.githubusercontent.com/42745515/160669301-2d131da4-181b-45cb-96bf-e80787f25e09.png" alt=""></code>
+  <p>And many other backend frameworks! I consider myself to be technology agnostic and focused on learning backend design principles</p>
 </div>
 
 
